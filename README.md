@@ -7,3 +7,10 @@ So I open my closet and try to search for the clothing pieces that can be worn t
 
 ## Solution
 A mobile application that provides service to add new clothing collection as a picture. I'll open the app every morning, the app should provide a list of clothing collection which I added before to choose one of them easily.
+
+## User Stories
+As a app user, I need to:
+1. Create new account.
+2. Login to the app.
+3. Add new picture (of clothing collection).
+4. View my clothes pictures I have added.
