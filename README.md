@@ -14,3 +14,5 @@ As an app user, I need to:
 2. Login to the app.
 3. Add a new picture (of clothing collection).
 4. View my clothes pictures I have added.
+
+## Name: Clothection
